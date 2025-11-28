@@ -1,18 +1,58 @@
-# React + Vite
+# ELEC3 Finals Compilation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A digital portfolio website showcasing assignments, lab activities, and research reports completed for **ELEC3 Cloud Computing** course.
 
-Currently, two official plugins are available:
+## About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This React-based website serves as a comprehensive compilation of all coursework submitted for the ELEC3 Cloud Computing subject. It features a modern, dark-themed interface with interactive PDF viewing capabilities.
 
-## React Compiler
+**Author:** Lans Clarence S. Villena  
+**Section:** IV - ACSAD  
+**Course:** ELEC3 Cloud Computing  
+**Year:** 2025
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## Contents
 
-Note: This will impact Vite dev & build performances.
+| # | Activity | Description |
+|---|----------|-------------|
+| 1 | **REST API** | CRUD RESTful APIs using Spring Boot and Postman |
+| 2 | **AWS Infrastructure** | How-To guide for EC2, S3, and RDS setup |
+| 3 | **Docker Study** | 6-week Docker and containerization study plan |
+| 4 | **Docker Image Lab** | Custom Docker image creation with Nginx |
+| 5 | **Comparative Report** | Virtualization vs. Containerization analysis |
+| 6 | **Kubernetes Lab** | Hello Minikube and WordPress deployment |
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** - Frontend framework
+- **Vite** - Build tool
+- **CSS3** - Styling with custom animations
+
+## Getting Started
+
+```bash
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+
+# Build for production
+npm run build
+```
+
+## Features
+
+- Modern dark theme with grid background
+- Interactive PDF viewer modal
+- Downloadable document files
+- Responsive design
+- Smooth animations
+
+## Live Demo
+
+Visit the deployed website: *link*
+
+## License
+
+© 2025 ELEC3 Finals Compilation
